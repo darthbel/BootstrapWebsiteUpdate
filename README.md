@@ -4,4 +4,4 @@ This was done as a freelance job, I was requested to update the existing website
 You can check the website here:
 https://darthbel.github.io/BootstrapWebsiteUpdate/index.html
 
-#Online Store is still in progress.
+## Online Store is still in progress.
