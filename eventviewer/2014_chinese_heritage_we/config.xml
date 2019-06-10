@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<juiceboxgallery
-	useFlickr="FALSE"
-	galleryTitle="Chinese Heritage Weekend: April 2014"
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	galleryTitle="ROM 2018 Family Day Weekend"
 	textColor="rgba(255,255,255,1)"
 	thumbFrameColor="rgba(255,255,255,0.5)"
 	showOpenButton="TRUE"
@@ -9,29 +11,62 @@
 	showThumbsButton="TRUE"
 	useThumbDots="FALSE"
 	useFullscreenExpand="FALSE"
+
 >
-	<image imageURL="images/dscn6986.jpg" thumbURL="thumbnails/dscn6986.jpg" linkURL="" linkTarget="" >
-		<title><![CDATA[dscn6986.jpg]]></title>
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/dscn6987.jpg" thumbURL="thumbnails/dscn6987.jpg" linkURL="" linkTarget="" >
-		<title><![CDATA[dscn6987.jpg]]></title>
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/dscn7002.jpg" thumbURL="thumbnails/dscn7002.jpg" linkURL="" linkTarget="" >
-		<title><![CDATA[dscn7002.jpg]]></title>
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/thumb.jpg" thumbURL="thumbnails/thumb.jpg" linkURL="" linkTarget="" >
-		<title><![CDATA[thumb.jpg]]></title>
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/dscn7004.jpg" thumbURL="thumbnails/dscn7004.jpg" linkURL="" linkTarget="" >
-		<title><![CDATA[dscn7004.jpg]]></title>
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/dscn7021.jpg" thumbURL="thumbnails/dscn7021.jpg" linkURL="" linkTarget="" >
-		<title><![CDATA[dscn7021.jpg]]></title>
-		<caption><![CDATA[]]></caption>
-	</image>
+  <image imageURL="images/2.jpg"
+	thumbURL="thumbnails/2.jpg"
+	linkURL="images/2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\2.jpg">
+    <title><![CDATA[Chinese Council General He Wei, Tea Tasting at the ROM]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3.jpg"
+	thumbURL="thumbnails/3.jpg"
+	linkURL="images/3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\3.jpg">
+    <title><![CDATA[Serving Tea On Family Day, Feb. 2018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1.jpg"
+	thumbURL="thumbnails/1.jpg"
+	linkURL="images/1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\1.jpg">
+    <title><![CDATA[Bringing in the Chinese New Year, Year of the Dog]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/7.jpg"
+	thumbURL="thumbnails/7.jpg"
+	linkURL="images/7.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\7.jpg">
+    <title><![CDATA[Our Display at the ROM, Family Day 2018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6.jpg"
+	thumbURL="thumbnails/6.jpg"
+	linkURL="images/6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\6.jpg">
+    <title><![CDATA[We set a new record: We Served over 1300 over two days for Family Day Weekend, ROM 2018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5.jpg"
+	thumbURL="thumbnails/5.jpg"
+	linkURL="images/5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\5.jpg">
+    <title><![CDATA[One of the Demonstrations for Family Day / Chinese New Year ROM 2018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4.jpg"
+	thumbURL="thumbnails/4.jpg"
+	linkURL="images/4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\4.jpg">
+    <title><![CDATA[Serving Tea On Family Day, Feb. 2018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
 </juiceboxgallery>
