@@ -14,13 +14,11 @@
 
 	<!-- Mobile Specific Metas
   ================================================== -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<!-- CSS
   ================================================== -->
 	<link rel="stylesheet" href="stylesheets/base.css">
-	<link rel="stylesheet" href="stylesheets/skeleton.css">
-	<link rel="stylesheet" href="stylesheets/layout.css">
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -33,84 +31,93 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
+	<!-- Adding Bootstrap
+	================================================== -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
 </head>
 <body>
 	<!-- Primary Page Layout
 	================================================== -->
-	<!-- Delete everything in this .container and get started on your own site! -->
-	<div class="nav">
-		<div class="container">
-			<div class="two columns alpha">
-				<img src="images/logo.png" id="logo"/>
-			</div>
-			<div id="buttons" class="fourteen columns omega">
-				<ul class="nav">
-					<a href="index.html"><li>Home</li></a>
-					<a href="http://www.c-tea-ca.com/teashop/index.php"><li>Shop Online</li></a>
-					<a href="lifestyle.html"><li>Lifestyle</li></a>
-					<a href="membership.html"><li>Membership</li></a>
-					<a href="contact.html"><li>Contact</li></a>
-					<a href="eventp.html"><li>Event Planning</li></a>
+	<div class="container" id="header">
+		<nav class="navbar navbar-expand-lg navbar-light">
+			<img class="img-fluid navbar-brand p-0" src="images/logo.png" id="logo"/>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse flex-row-reverse" id="navbarToggler">
+				<ul class="nav" id="menuItems">
+					<li class="nav-item">
+						<a class="nav-link" href="index.html">Home</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="http://www.c-tea-ca.com/teashop/index.php">Shop Online</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="lifestyle.html">Lifestyle</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="membership.html">Membership</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="contact.html">Contact</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="eventp.html">Event Planning</a>
+					</li>
 				</ul>
 			</div>
+		</nav>
+	</div>
+	<div class="container-fluid redbg">
+		<div class="container padbox">
+			<h4 class="whitetext text-center">Yellow Tea</h4>
+            <h4 class="whitetext text-center">&#21531;&#23665;&#37504;&#37341;</h4>
 		</div>
 	</div>
-	<div class="wrapper redbg">
+	<div class="container-fluid whitebg pb-5">
+		<div class="container padbox">
+			<h4 class="blacktext text-center">JUN SHAN YIN ZHEN</h4>
+		</div>
 		<div class="container">
-			<div class="sixteen columns padbox">
-				<h4 class="whitetext centertext">
-					Yellow Tea<br/>
-					&#21531;&#23665;&#37504;&#37341;</h4>
+			<div class="row">
+				<div  class="col-sm">
+					<div id="teaPageImgContainer" class="d-flex flex-wrap mx-auto justify-content-center pb-3">
+						<img class="img-fluid order-1" src="teaphotos/Y_junshan%20yinzhen_1.jpg"/>
+						<img class="img-fluid order-2" src="teaphotos/y_houshan huangya_1 (1).jpg"/>
+					</div>
+				</div>
+				<div class="col-sm text-justify">
+	                <p>Honored as the king of Yellow teas and one of China's Ten Famous Tea. Jun Shan Yin Zhen was an Imperial Tribute tea, and is also well-known as Chairman's Mao favorite tea. The manufacturing process of Yellow tea is similar to Green Tea. The flavour however is augmented with an additional step translated as "sealing yellow". The tea is quickly sun dried to stop any enzyme activity that may cause oxidation, and prior to firing, the tea is lightly steamed and blanketed with a cloth, allowing the tea to absorb its own essence.</p>
+
+					<h5>Origin</h5>
+	                <p>Jun Shan, An Hui Province</p>
+
+	                <h5>Appearance</h5>
+	                <p>Thick, needle-shape tea buds. Yellow tea leaves stand vertically during the steeping process like stalagmites in the cup, creating a beautiful visual presentation. The infusion is pale golden.</p>
+
+	                <h5>Taste</h5>
+	                <p>Delicate aroma with a hint of floral notes. The taste is smooth, light and sweet at first sip but finishes with a fleeting smoky taste. This smokiness is only apparent in the first infusion, adding character to the tea and makes the sweetness stands out even more.</p>
+
+	                <h5>Brewing Guide</h5>
+
+	                <p><a href="documents/brewing_guide.pdf">Please download our suggested brewing instructions (PDF)</a><br>
+		            (Right Click To Save)</p>
+	        	</div>
 			</div>
 		</div>
 	</div>
-	<div class="wrapper whitebg">
-		<div class="container">
-			<div class="sixteen columns padbox">
-				<h4 class="blacktext centertext">JUN SHAN YIN ZHEN</h4>
-			</div>
-			<div class="eight columns">
-				<img src="teaphotos/Y_junshan%20yinzhen_1.jpg" height="180" width="205"/>
-				<img src="teaphotos/y_houshan huangya_1 (1).jpg" height="180" />
-			</div>
-			<div class="eight columns">
-				<p class="blacktext">Honored as the king of Yellow teas and one 
-                of China's Ten Famous Tea. Jun Shan Yin Zhen was an Imperial 
-                Tribute tea, and is also well-known as Chairman's Mao favorite 
-                tea. The manufacturing process of Yellow tea is similar to Green 
-                Tea. The flavour however is augmented with an additional step 
-                translated as “sealing yellow”. The tea is quickly sun dried to 
-                stop any enzyme activity that may cause oxidation, and prior to 
-                firing, the tea is lightly steamed and blanketed with a cloth, 
-                allowing the tea to absorb its own essence. <br>
-                <br>
-                <span style="font-size: 14pt">Origin</span><br>
-                Jun Shan, An Hui Province <br>
-                <br>
-                <span style="font-size: 14pt">Appearance</span><br>
-                Thick, needle-shape tea buds. Yellow tea leaves stand vertically 
-                during the steeping process like stalagmites in the cup, 
-                creating a beautiful visual presentation. The infusion is pale 
-                golden. <br>
-                <br>
-                <span style="font-size: 14pt">Taste</span><br>
-                Delicate aroma with a hint of floral notes. The taste is smooth, 
-                light and sweet at first sip but finishes with a fleeting smoky 
-                taste. This smokiness is only apparent in the first infusion, 
-                adding character to the tea and makes the sweetness stands out 
-                even more.</div>
-		</div>
+	<div class="container-fluid blackbg h-90 py-3">
+		<p class="whitetext text-center">Chinese Tea Culture Canada Inc.</p>
+        <p class="graytext text-center mb-0">This website and its content are the copyright of Chinese Tea Culture Canada Inc. Website designed by Felipe Belgine. </p>
 	</div>
-	<div class="wrapper blackbg">
-		<div class="container">
-			<div class="sixteen columns footer">
-				<p class="graytext">
-				<center><font color="#FFFFFF">Chinese Tea Culture Canada Inc.</Center></font>
-This website and its content are the copyright of Chinese Tea Culture Canada Inc. Website designed by Timothy Ho.
-				</p>
-			</div>
-		</div>
-	</div>
+
+	<!-- Bootstrap Javascript tags
+	================================================== -->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
 <!-- End Document
 ================================================== -->
 </body>

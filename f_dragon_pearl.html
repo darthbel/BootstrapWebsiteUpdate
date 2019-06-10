@@ -14,13 +14,11 @@
 
 	<!-- Mobile Specific Metas
   ================================================== -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<!-- CSS
   ================================================== -->
 	<link rel="stylesheet" href="stylesheets/base.css">
-	<link rel="stylesheet" href="stylesheets/skeleton.css">
-	<link rel="stylesheet" href="stylesheets/layout.css">
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -33,89 +31,93 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
+	<!-- Adding Bootstrap
+	================================================== -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
 </head>
 <body>
-
-
-
 	<!-- Primary Page Layout
 	================================================== -->
-
-	<!-- Delete everything in this .container and get started on your own site! -->
-	<div class="nav">
-		<div class="container">
-			<div class="two columns alpha">
-				<img src="images/logo.png" id="logo"/>
-			</div>
-			<div id="buttons" class="fourteen columns omega">
-				<ul class="nav">
-					<a href="index.html"><li>Home</li></a>
-					<a href="http://www.c-tea-ca.com/teashop/index.php"><li>Shop Online</li></a>
-					<a href="lifestyle.html"><li>Lifestyle</li></a>
-					<a href="membership.html"><li>Membership</li></a>
-					<a href="contact.html"><li>Contact</li></a>
-					<a href="eventp.html"><li>Event Planning</li></a>
+	<div class="container" id="header">
+		<nav class="navbar navbar-expand-lg navbar-light">
+			<img class="img-fluid navbar-brand p-0" src="images/logo.png" id="logo"/>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse flex-row-reverse" id="navbarToggler">
+				<ul class="nav" id="menuItems">
+					<li class="nav-item">
+						<a class="nav-link" href="index.html">Home</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="http://www.c-tea-ca.com/teashop/index.php">Shop Online</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="lifestyle.html">Lifestyle</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="membership.html">Membership</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="contact.html">Contact</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="eventp.html">Event Planning</a>
+					</li>
 				</ul>
 			</div>
+		</nav>
+	</div>
+	<div class="container-fluid redbg">
+		<div class="container padbox">
+			<h4 class="whitetext text-center">Flower Tea</h4>
+            <h4 class="whitetext text-center">&#40845;&#29664;&#33457;&#33590;</h4>
 		</div>
 	</div>
-	<div class="wrapper redbg">
-		<div class="container">
-			<div class="sixteen columns padbox">
-				<h4 class="whitetext centertext">
-					Flower Tea<br/>
-					&#40845;&#29664;&#33457;&#33590;
-				</h4>
-			</div>
+	<div class="container-fluid whitebg pb-5">
+		<div class="container padbox">
+			<h4 class="blacktext text-center">WHITE DRAGON PEARL</h4>
 		</div>
-	</div>
-	<div class="wrapper whitebg">
 		<div class="container">
-			<div class="sixteen columns padbox">
-				<h4 class="blacktext centertext">White Dragon Pearl</h4>
-			</div>
-			<div class="eight columns">
-				<img src="teaphotos/F_dragon_pearl (1).jpg" height="180"/>
-        		<img src="teaphotos/F_dragon_pearl.jpg" height="180"/>
-			</div>
-			<div class="eight columns">
-				<p class="blacktext">&nbsp;<br>
-                <br>
-                White Dragon Pearl is made by rolling the tender shoots of the 
-                tea leaves and buds of the Big White Trees of Fuding into 
-                &quot;pearls&quot; and infused with Jasmine flowers. <br>
-                <br>
-                <font style="font-size: 14pt">Origin</font><br>
-                Fuding, Fujian Province<br>
-                <br>
-                <span style="font-size: 14pt">Appearance</span><br>
-                The fine downy tea buds with white jasmine stripe are rolled 
-                into beautiful pearl-like shape. When steeped, the &quot;pearls&quot; 
-                slowly release a light and wonderful floral aroma. <br>
-                <br>
-                <span style="font-size: 14pt">Taste</span><br>
-                A soothing tea that is sweet, creamy, smooth and refreshing, 
-                with a delicate jasmine flower scent.</p>
-				<p class="blacktext"><font size="4">Brewing Guide</font><br>
-                <a href="documents/brewing_guide.pdf">Please 
-            download our suggested brewing instructions (PDF)</a><br>
-            (Right Click To Save)</p>
-				<br/>
-				<table>
-					</table>
+			<div class="row">
+				<div  class="col-sm">
+					<div id="teaPageImgContainer" class="d-flex flex-wrap mx-auto justify-content-center pb-3">
+						<img class="img-fluid order-1" src="teaphotos/F_dragon_pearl (1).jpg"/>
+						<img class="img-fluid order-2" src="teaphotos/F_dragon_pearl.jpg"/>
+
+					</div>
+				</div>
+				<div class="col-sm text-justify">
+	                <p>White Dragon Pearl is made by rolling the tender shoots of the tea leaves and buds of the Big White Trees of Fuding into &quot;pearls&quot; and infused with Jasmine flowers.</p>
+
+  					<h5>Origin</h5>
+	                <p>Fuding, Fujian Province</p>
+
+  					<h5>Appearance</h5>
+	                <p>The fine downy tea buds with white jasmine stripe are rolled into beautiful pearl-like shape. When steeped, the &quot;pearls&quot; slowly release a light and wonderful floral aroma.</p>
+
+	                <h5>Taste</h5>
+	                <p>A soothing tea that is sweet, creamy, smooth and refreshing, with a delicate jasmine flower scent.</p>
+
+	                <h5>Brewing Guide</h5>
+
+	                <p><a href="documents/brewing_guide.pdf">Please download our suggested brewing instructions (PDF)</a><br>
+		            (Right Click To Save)</p>
+	        	</div>
 			</div>
 		</div>
 	</div>
-	<div class="wrapper blackbg">
-		<div class="container">
-			<div class="sixteen columns footer">
-				<p class="graytext">
-				<center><font color="#FFFFFF">Chinese Tea Culture Canada Inc.</Center></font>This website and its content are the copyright of Chinese Tea Culture Canada Inc. Website designed by Timothy Ho.
-				</p>
-			</div>
-		</div>
+	<div class="container-fluid blackbg h-90 py-3">
+		<p class="whitetext text-center">Chinese Tea Culture Canada Inc.</p>
+        <p class="graytext text-center mb-0">This website and its content are the copyright of Chinese Tea Culture Canada Inc. Website designed by Felipe Belgine. </p>
 	</div>
 
+	<!-- Bootstrap Javascript tags
+	================================================== -->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 <!-- End Document
 ================================================== -->
