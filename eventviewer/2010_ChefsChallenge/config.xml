@@ -1,72 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<juiceboxgallery 
-
-	useFlickr="false"
-	galleryTitle="ROM 2018 Family Day Weekend"
-	textColor="rgba(255,255,255,1)"
-	thumbFrameColor="rgba(255,255,255,0.5)"
+<simpleviewergallery title="Chef's Challenge 2010"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
 	showOpenButton="TRUE"
-	showExpandButton="TRUE"
-	showThumbsButton="TRUE"
-	useThumbDots="FALSE"
-	useFullscreenExpand="FALSE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""
+	useFlickr="false"
 
 >
-  <image imageURL="images/2.jpg"
-	thumbURL="thumbnails/2.jpg"
-	linkURL="images/2.jpg"
+  <image imageURL="images/ramsay.jpg"
+	thumbURL="thumbnails/ramsay.jpg"
+	linkURL="images/ramsay.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\2.jpg">
-    <title><![CDATA[Chinese Council General He Wei, Tea Tasting at the ROM]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2010_ChefsChallenge\images\ramsay.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Emily with Chef Gordon Ramsey]]></caption>
   </image>
-  <image imageURL="images/3.jpg"
-	thumbURL="thumbnails/3.jpg"
-	linkURL="images/3.jpg"
+  <image imageURL="images/crawford.jpg"
+	thumbURL="thumbnails/crawford.jpg"
+	linkURL="images/crawford.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\3.jpg">
-    <title><![CDATA[Serving Tea On Family Day, Feb. 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2010_ChefsChallenge\images\crawford.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Emily with Chef  Lynn Crawford]]></caption>
   </image>
-  <image imageURL="images/1.jpg"
-	thumbURL="thumbnails/1.jpg"
-	linkURL="images/1.jpg"
+  <image imageURL="images/rocco.jpg"
+	thumbURL="thumbnails/rocco.jpg"
+	linkURL="images/rocco.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\1.jpg">
-    <title><![CDATA[Bringing in the Chinese New Year, Year of the Dog]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2010_ChefsChallenge\images\rocco.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Emily with Chef David Rocco]]></caption>
   </image>
-  <image imageURL="images/7.jpg"
-	thumbURL="thumbnails/7.jpg"
-	linkURL="images/7.jpg"
+  <image imageURL="images/capra.jpg"
+	thumbURL="thumbnails/capra.jpg"
+	linkURL="images/capra.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\7.jpg">
-    <title><![CDATA[Our Display at the ROM, Family Day 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2010_ChefsChallenge\images\capra.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Emily with Chef Massimo Capra]]></caption>
   </image>
-  <image imageURL="images/6.jpg"
-	thumbURL="thumbnails/6.jpg"
-	linkURL="images/6.jpg"
+  <image imageURL="images/kennedy.jpg"
+	thumbURL="thumbnails/kennedy.jpg"
+	linkURL="images/kennedy.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\6.jpg">
-    <title><![CDATA[We set a new record: We Served over 1300 over two days for Family Day Weekend, ROM 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2010_ChefsChallenge\images\kennedy.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Emily with Chef Jamie Kennedy]]></caption>
   </image>
-  <image imageURL="images/5.jpg"
-	thumbURL="thumbnails/5.jpg"
-	linkURL="images/5.jpg"
+  <image imageURL="images/mcewan.jpg"
+	thumbURL="thumbnails/mcewan.jpg"
+	linkURL="images/mcewan.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\5.jpg">
-    <title><![CDATA[One of the Demonstrations for Family Day / Chinese New Year ROM 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2010_ChefsChallenge\images\mcewan.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Emily with Chef Mark McEwan]]></caption>
   </image>
-  <image imageURL="images/4.jpg"
-	thumbURL="thumbnails/4.jpg"
-	linkURL="images/4.jpg"
+  <image imageURL="images/copy_of_5248137226_b00d73004f_b.jpg"
+	thumbURL="thumbnails/copy_of_5248137226_b00d73004f_b.jpg"
+	linkURL="images/copy_of_5248137226_b00d73004f_b.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\4.jpg">
-    <title><![CDATA[Serving Tea On Family Day, Feb. 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2010_ChefsChallenge\images\copy_of_5248137226_b00d73004f_b.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Getting Ready to Cook at the Chef's Challenge]]></caption>
   </image>
-</juiceboxgallery>
+  <image imageURL="images/5248137226_b00d73004f_b.jpg"
+	thumbURL="thumbnails/5248137226_b00d73004f_b.jpg"
+	linkURL="images/5248137226_b00d73004f_b.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2010_ChefsChallenge\images\5248137226_b00d73004f_b.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Getting Ready to Cook at the Chef's Challenge]]></caption>
+  </image>
+</simpleviewergallery>

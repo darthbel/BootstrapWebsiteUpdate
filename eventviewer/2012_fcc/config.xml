@@ -1,72 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<juiceboxgallery 
-
-	useFlickr="false"
-	galleryTitle="ROM 2018 Family Day Weekend"
-	textColor="rgba(255,255,255,1)"
-	thumbFrameColor="rgba(255,255,255,0.5)"
+<simpleviewergallery title="Tea Seminar at the Chinese Cultural Centre"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
 	showOpenButton="TRUE"
-	showExpandButton="TRUE"
-	showThumbsButton="TRUE"
-	useThumbDots="FALSE"
-	useFullscreenExpand="FALSE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""
+	useFlickr="false"
 
 >
-  <image imageURL="images/2.jpg"
-	thumbURL="thumbnails/2.jpg"
-	linkURL="images/2.jpg"
+  <image imageURL="images/ccc_setup.jpg"
+	thumbURL="thumbnails/ccc_setup.jpg"
+	linkURL="images/ccc_setup.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\2.jpg">
-    <title><![CDATA[Chinese Council General He Wei, Tea Tasting at the ROM]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2012_fcc\images\ccc_setup.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Tea Display for Families with Children from China]]></caption>
   </image>
-  <image imageURL="images/3.jpg"
-	thumbURL="thumbnails/3.jpg"
-	linkURL="images/3.jpg"
+  <image imageURL="images/ccc_demostration2.jpg"
+	thumbURL="thumbnails/ccc_demostration2.jpg"
+	linkURL="images/ccc_demostration2.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\3.jpg">
-    <title><![CDATA[Serving Tea On Family Day, Feb. 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2012_fcc\images\ccc_demostration2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Tea Seminar (FCC) at Chinese Cultural Centre of Greater Toronto]]></caption>
   </image>
-  <image imageURL="images/1.jpg"
-	thumbURL="thumbnails/1.jpg"
-	linkURL="images/1.jpg"
+  <image imageURL="images/ccc_tea_tasting.jpg"
+	thumbURL="thumbnails/ccc_tea_tasting.jpg"
+	linkURL="images/ccc_tea_tasting.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\1.jpg">
-    <title><![CDATA[Bringing in the Chinese New Year, Year of the Dog]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2012_fcc\images\ccc_tea_tasting.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Tea Tasting!]]></caption>
   </image>
-  <image imageURL="images/7.jpg"
-	thumbURL="thumbnails/7.jpg"
-	linkURL="images/7.jpg"
+  <image imageURL="images/ccc_demostration1.jpg"
+	thumbURL="thumbnails/ccc_demostration1.jpg"
+	linkURL="images/ccc_demostration1.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\7.jpg">
-    <title><![CDATA[Our Display at the ROM, Family Day 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2012_fcc\images\ccc_demostration1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Tea Seminar (FCC) at Chinese Cultural Centre of Greater Toronto]]></caption>
   </image>
-  <image imageURL="images/6.jpg"
-	thumbURL="thumbnails/6.jpg"
-	linkURL="images/6.jpg"
+  <image imageURL="images/ccc.jpg"
+	thumbURL="thumbnails/ccc.jpg"
+	linkURL="images/ccc.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\6.jpg">
-    <title><![CDATA[We set a new record: We Served over 1300 over two days for Family Day Weekend, ROM 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2012_fcc\images\ccc.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Annual Culture Camp at Chinese Cultural Centre of Greater Toronto]]></caption>
   </image>
-  <image imageURL="images/5.jpg"
-	thumbURL="thumbnails/5.jpg"
-	linkURL="images/5.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\5.jpg">
-    <title><![CDATA[One of the Demonstrations for Family Day / Chinese New Year ROM 2018]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/4.jpg"
-	thumbURL="thumbnails/4.jpg"
-	linkURL="images/4.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\4.jpg">
-    <title><![CDATA[Serving Tea On Family Day, Feb. 2018]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-</juiceboxgallery>
+</simpleviewergallery>

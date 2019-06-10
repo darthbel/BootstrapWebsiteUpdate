@@ -3,7 +3,7 @@
 <juiceboxgallery 
 
 	useFlickr="false"
-	galleryTitle="ROM 2018 Family Day Weekend"
+	galleryTitle="At Holt Renfrew: February 2016"
 	textColor="rgba(255,255,255,1)"
 	thumbFrameColor="rgba(255,255,255,0.5)"
 	showOpenButton="TRUE"
@@ -13,60 +13,100 @@
 	useFullscreenExpand="FALSE"
 
 >
-  <image imageURL="images/2.jpg"
-	thumbURL="thumbnails/2.jpg"
-	linkURL="images/2.jpg"
+  <image imageURL="images/hr_cny1.jpg"
+	thumbURL="thumbnails/hr_cny1.jpg"
+	linkURL="images/hr_cny1.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\2.jpg">
-    <title><![CDATA[Chinese Council General He Wei, Tea Tasting at the ROM]]></title>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2016_holt_renfrew\images\hr_cny1.jpg">
+    <title><![CDATA[hr_cny1.jpg]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/3.jpg"
-	thumbURL="thumbnails/3.jpg"
-	linkURL="images/3.jpg"
+  <image imageURL="images/thumb.jpg"
+	thumbURL="thumbnails/thumb.jpg"
+	linkURL="images/thumb.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\3.jpg">
-    <title><![CDATA[Serving Tea On Family Day, Feb. 2018]]></title>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2016_holt_renfrew\images\thumb.jpg">
+    <title><![CDATA[thumb.jpg]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/1.jpg"
-	thumbURL="thumbnails/1.jpg"
-	linkURL="images/1.jpg"
+  <image imageURL="images/hr_cny2.jpg"
+	thumbURL="thumbnails/hr_cny2.jpg"
+	linkURL="images/hr_cny2.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\1.jpg">
-    <title><![CDATA[Bringing in the Chinese New Year, Year of the Dog]]></title>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2016_holt_renfrew\images\hr_cny2.jpg">
+    <title><![CDATA[hr_cny2.jpg]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/7.jpg"
-	thumbURL="thumbnails/7.jpg"
-	linkURL="images/7.jpg"
+  <image imageURL="images/hr_cny3.jpg"
+	thumbURL="thumbnails/hr_cny3.jpg"
+	linkURL="images/hr_cny3.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\7.jpg">
-    <title><![CDATA[Our Display at the ROM, Family Day 2018]]></title>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2016_holt_renfrew\images\hr_cny3.jpg">
+    <title><![CDATA[hr_cny3.jpg]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/6.jpg"
-	thumbURL="thumbnails/6.jpg"
-	linkURL="images/6.jpg"
+  <image imageURL="images/hr_cny5.jpg"
+	thumbURL="thumbnails/hr_cny5.jpg"
+	linkURL="images/hr_cny5.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\6.jpg">
-    <title><![CDATA[We set a new record: We Served over 1300 over two days for Family Day Weekend, ROM 2018]]></title>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2016_holt_renfrew\images\hr_cny5.jpg">
+    <title><![CDATA[hr_cny5.jpg]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/5.jpg"
-	thumbURL="thumbnails/5.jpg"
-	linkURL="images/5.jpg"
+  <image imageURL="images/hr_cny4.jpg"
+	thumbURL="thumbnails/hr_cny4.jpg"
+	linkURL="images/hr_cny4.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\5.jpg">
-    <title><![CDATA[One of the Demonstrations for Family Day / Chinese New Year ROM 2018]]></title>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2016_holt_renfrew\images\hr_cny4.jpg">
+    <title><![CDATA[hr_cny4.jpg]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/4.jpg"
-	thumbURL="thumbnails/4.jpg"
-	linkURL="images/4.jpg"
+  <image imageURL="images/hr_cny.jpg"
+	thumbURL="thumbnails/hr_cny.jpg"
+	linkURL="images/hr_cny.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\4.jpg">
-    <title><![CDATA[Serving Tea On Family Day, Feb. 2018]]></title>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2016_holt_renfrew\images\hr_cny.jpg">
+    <title><![CDATA[hr_cny.jpg]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hr_cny7.jpg"
+	thumbURL="thumbnails/hr_cny7.jpg"
+	linkURL="images/hr_cny7.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2016_holt_renfrew\images\hr_cny7.jpg">
+    <title><![CDATA[hr_cny7.jpg]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hr_cny8.jpg"
+	thumbURL="thumbnails/hr_cny8.jpg"
+	linkURL="images/hr_cny8.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2016_holt_renfrew\images\hr_cny8.jpg">
+    <title><![CDATA[hr_cny8.jpg]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hr_cny9.jpg"
+	thumbURL="thumbnails/hr_cny9.jpg"
+	linkURL="images/hr_cny9.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2016_holt_renfrew\images\hr_cny9.jpg">
+    <title><![CDATA[hr_cny9.jpg]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hr_cny6.jpg"
+	thumbURL="thumbnails/hr_cny6.jpg"
+	linkURL="images/hr_cny6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2016_holt_renfrew\images\hr_cny6.jpg">
+    <title><![CDATA[hr_cny6.jpg]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hr_cny10.jpg"
+	thumbURL="thumbnails/hr_cny10.jpg"
+	linkURL="images/hr_cny10.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2016_holt_renfrew\images\hr_cny10.jpg">
+    <title><![CDATA[hr_cny10.jpg]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>

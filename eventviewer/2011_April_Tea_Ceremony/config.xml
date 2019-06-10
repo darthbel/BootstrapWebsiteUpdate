@@ -1,72 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<juiceboxgallery 
-
-	useFlickr="false"
-	galleryTitle="ROM 2018 Family Day Weekend"
-	textColor="rgba(255,255,255,1)"
-	thumbFrameColor="rgba(255,255,255,0.5)"
+<simpleviewergallery title="Tea Ceremony April 2011"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
 	showOpenButton="TRUE"
-	showExpandButton="TRUE"
-	showThumbsButton="TRUE"
-	useThumbDots="FALSE"
-	useFullscreenExpand="FALSE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""
+	useFlickr="false"
 
 >
-  <image imageURL="images/2.jpg"
-	thumbURL="thumbnails/2.jpg"
-	linkURL="images/2.jpg"
+  <image imageURL="images/img_0304.jpg"
+	thumbURL="thumbnails/img_0304.jpg"
+	linkURL="images/img_0304.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\2.jpg">
-    <title><![CDATA[Chinese Council General He Wei, Tea Tasting at the ROM]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2011_April_Tea_Ceremony\images\img_0304.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Prime Minister Stephen Harper and his Wife Laureen join the Demonstration]]></caption>
   </image>
-  <image imageURL="images/3.jpg"
-	thumbURL="thumbnails/3.jpg"
-	linkURL="images/3.jpg"
+  <image imageURL="images/img_0314.jpg"
+	thumbURL="thumbnails/img_0314.jpg"
+	linkURL="images/img_0314.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\3.jpg">
-    <title><![CDATA[Serving Tea On Family Day, Feb. 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2011_April_Tea_Ceremony\images\img_0314.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Tea Master Connie Fong begins her presentation]]></caption>
   </image>
-  <image imageURL="images/1.jpg"
-	thumbURL="thumbnails/1.jpg"
-	linkURL="images/1.jpg"
+  <image imageURL="images/img_0336.jpg"
+	thumbURL="thumbnails/img_0336.jpg"
+	linkURL="images/img_0336.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\1.jpg">
-    <title><![CDATA[Bringing in the Chinese New Year, Year of the Dog]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2011_April_Tea_Ceremony\images\img_0336.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Prime Minister Harper and his Wife Laureen enjoy cups of Monkey Picked  Ti Quan Yin]]></caption>
   </image>
-  <image imageURL="images/7.jpg"
-	thumbURL="thumbnails/7.jpg"
-	linkURL="images/7.jpg"
+  <image imageURL="images/img_0339.jpg"
+	thumbURL="thumbnails/img_0339.jpg"
+	linkURL="images/img_0339.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\7.jpg">
-    <title><![CDATA[Our Display at the ROM, Family Day 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2011_April_Tea_Ceremony\images\img_0339.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Tea Master Connie Fong talks about the History of Tea]]></caption>
   </image>
-  <image imageURL="images/6.jpg"
-	thumbURL="thumbnails/6.jpg"
-	linkURL="images/6.jpg"
+  <image imageURL="images/img_0345.jpg"
+	thumbURL="thumbnails/img_0345.jpg"
+	linkURL="images/img_0345.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\6.jpg">
-    <title><![CDATA[We set a new record: We Served over 1300 over two days for Family Day Weekend, ROM 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2011_April_Tea_Ceremony\images\img_0345.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[img_0345.jpg]]></caption>
   </image>
-  <image imageURL="images/5.jpg"
-	thumbURL="thumbnails/5.jpg"
-	linkURL="images/5.jpg"
+  <image imageURL="images/img_3213.jpg"
+	thumbURL="thumbnails/img_3213.jpg"
+	linkURL="images/img_3213.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\5.jpg">
-    <title><![CDATA[One of the Demonstrations for Family Day / Chinese New Year ROM 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2011_April_Tea_Ceremony\images\img_3213.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[A crowd begins to gather at the Tea Ceremony]]></caption>
   </image>
-  <image imageURL="images/4.jpg"
-	thumbURL="thumbnails/4.jpg"
-	linkURL="images/4.jpg"
+  <image imageURL="images/img_3214.jpg"
+	thumbURL="thumbnails/img_3214.jpg"
+	linkURL="images/img_3214.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2018_rom\images\4.jpg">
-    <title><![CDATA[Serving Tea On Family Day, Feb. 2018]]></title>
-    <caption><![CDATA[]]></caption>
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2011_April_Tea_Ceremony\images\img_3214.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[img_3214.jpg]]></caption>
   </image>
-</juiceboxgallery>
+  <image imageURL="images/img_3223.jpg"
+	thumbURL="thumbnails/img_3223.jpg"
+	linkURL="images/img_3223.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2011_April_Tea_Ceremony\images\img_3223.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Tea Master Connie Fong expertly prepares Monkey Picked Ti Quan Yin]]></caption>
+  </image>
+  <image imageURL="images/img_3263.jpg"
+	thumbURL="thumbnails/img_3263.jpg"
+	linkURL="images/img_3263.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\workspace\teashop\httpdocs\eventviewer\2011_April_Tea_Ceremony\images\img_3263.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Tea Master Connie Fong with Mrs. Harper]]></caption>
+  </image>
+</simpleviewergallery>

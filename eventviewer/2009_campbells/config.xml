@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery galleryStyle="MODERN"
+	title="Chinese Tea Culture"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="20"
+	thumbPosition="LEFT"
+	thumbColumns="3"
+	thumbRows="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	useFlickr="true"
+	flickrUserName="ChineseTeaCultureCanada"
+	flickrTags="Campbell"
+	languageCode="AUTO"
+	languageList=""
+	imagePath="images/"
+	thumbPath="thumbs/"/>
