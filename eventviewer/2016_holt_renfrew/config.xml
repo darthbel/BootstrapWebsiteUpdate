@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+	useFlickr="FALSE"
+	galleryTitle="At Holt Renfrew: February 2016"
+	textColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(255,255,255,0.5)"
+	showOpenButton="TRUE"
+	showExpandButton="TRUE"
+	showThumbsButton="TRUE"
+	useThumbDots="FALSE"
+	useFullscreenExpand="FALSE"
+>
+	<image imageURL="images/hr_cny1.jpg" thumbURL="thumbnails/hr_cny1.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[hr_cny1.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/thumb.jpg" thumbURL="thumbnails/thumb.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[thumb.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/hr_cny2.jpg" thumbURL="thumbnails/hr_cny2.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[hr_cny2.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/hr_cny3.jpg" thumbURL="thumbnails/hr_cny3.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[hr_cny3.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/hr_cny5.jpg" thumbURL="thumbnails/hr_cny5.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[hr_cny5.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/hr_cny4.jpg" thumbURL="thumbnails/hr_cny4.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[hr_cny4.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/hr_cny.jpg" thumbURL="thumbnails/hr_cny.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[hr_cny.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/hr_cny7.jpg" thumbURL="thumbnails/hr_cny7.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[hr_cny7.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/hr_cny8.jpg" thumbURL="thumbnails/hr_cny8.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[hr_cny8.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/hr_cny9.jpg" thumbURL="thumbnails/hr_cny9.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[hr_cny9.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/hr_cny6.jpg" thumbURL="thumbnails/hr_cny6.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[hr_cny6.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/hr_cny10.jpg" thumbURL="thumbnails/hr_cny10.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[hr_cny10.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+</juiceboxgallery>

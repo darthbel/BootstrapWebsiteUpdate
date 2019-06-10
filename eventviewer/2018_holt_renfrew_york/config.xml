@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+	useFlickr="FALSE"
+	galleryTitle="Holt Renfrew York 2018"
+	textColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(255,255,255,0.5)"
+	showOpenButton="TRUE"
+	showExpandButton="TRUE"
+	showThumbsButton="TRUE"
+	useThumbDots="FALSE"
+	useFullscreenExpand="FALSE"
+>
+	<image imageURL="images/2.jpg" thumbURL="thumbnails/2.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[Qeelin Trunk Show Tea Tasting Event at Holt Renfrew Yorkdale, January 28 and 29]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/1.jpg" thumbURL="thumbnails/1.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[Qeelin Trunk Show Tea Tasting Event at Holt Renfrew Yorkdale, January 28 and 29]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/3.jpg" thumbURL="thumbnails/3.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[Rita with Qeelin's creative director Denis Chan]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/4.jpg" thumbURL="thumbnails/4.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[Qeelin's creative director Denis Chan]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+</juiceboxgallery>

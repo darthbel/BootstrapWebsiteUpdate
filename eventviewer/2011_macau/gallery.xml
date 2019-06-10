@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<simpleviewergallery
+	
+	title="Macau Club"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""	
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""	
+>
+
+<image imageURL="images/macau.jpg" thumbURL="thumbnails/macau.jpg" linkURL="" linkTarget="" >
+	<caption>Emily and Rita with Macau Club (Toronto) Inc.'s President Joe Chan</caption>	
+</image><image imageURL="images/macau3.jpg" thumbURL="thumbnails/macau3.jpg" linkURL="" linkTarget="" >
+	<caption>Jose Coutinho of the Macau Special Admin. Region's Legislative Assembly</caption>	
+</image><image imageURL="images/macau4.jpg" thumbURL="thumbnails/macau4.jpg" linkURL="" linkTarget="" >
+	<caption>Macau Club (Toronto) Inc.'s Board of Directors</caption>	
+</image><image imageURL="images/macau2.jpg" thumbURL="thumbnails/macau2.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Tasting</caption>	
+</image><image imageURL="images/macau1.jpg" thumbURL="thumbnails/macau1.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Demonstration</caption>	
+</image></simpleviewergallery>

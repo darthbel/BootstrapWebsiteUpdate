@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+	useFlickr="FALSE"
+	galleryTitle="Urban Lifestyles Event: October 2014"
+	textColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(255,255,255,0.5)"
+	showOpenButton="TRUE"
+	showExpandButton="TRUE"
+	showThumbsButton="TRUE"
+	useThumbDots="FALSE"
+	useFullscreenExpand="FALSE"
+>
+	<image imageURL="images/guests_1.jpg" thumbURL="thumbnails/guests_1.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[guests_1.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/guests.jpg" thumbURL="thumbnails/guests.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[guests.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/lucky_draw.jpg" thumbURL="thumbnails/lucky_draw.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[lucky_draw.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/guest_speaker_david.jpg" thumbURL="thumbnails/guest_speaker_david.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[guest_speaker_david.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/jeff_tea_presentation.jpg" thumbURL="thumbnails/jeff_tea_presentation.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[jeff_tea_presentation.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/tea_presention.jpg" thumbURL="thumbnails/tea_presention.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[tea_presention.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/thumb.jpg" thumbURL="thumbnails/thumb.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[thumb.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/tea_presentation_1.jpg" thumbURL="thumbnails/tea_presentation_1.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[tea_presentation_1.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/guest_speaker_terry.jpg" thumbURL="thumbnails/guest_speaker_terry.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[guest_speaker_terry.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+</juiceboxgallery>

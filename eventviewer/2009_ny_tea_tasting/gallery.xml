@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<simpleviewergallery
+	
+	title="Tea Tasting Party - 2009"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""	
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""	
+>
+
+<image imageURL="images/rogers_1.jpg" thumbURL="thumbnails/rogers_1.jpg" linkURL="" linkTarget="" >
+	<caption>Premium Tea Tasting Party 2009</caption>	
+</image><image imageURL="images/rogers_2.jpg" thumbURL="thumbnails/rogers_2.jpg" linkURL="" linkTarget="" >
+	<caption>Premium Tea Tasting Party 2009</caption>	
+</image><image imageURL="images/rogers_3.jpg" thumbURL="thumbnails/rogers_3.jpg" linkURL="" linkTarget="" >
+	<caption>Premium Tea Tasting Party 2009</caption>	
+</image><image imageURL="images/rogers_4.jpg" thumbURL="thumbnails/rogers_4.jpg" linkURL="" linkTarget="" >
+	<caption>Premium Tea Tasting Party 2009</caption>	
+</image><image imageURL="images/rom_1.jpg" thumbURL="thumbnails/rom_1.jpg" linkURL="" linkTarget="" >
+	<caption>Premium Tea Tasting Party 2009</caption>	
+</image><image imageURL="images/rom_2.jpg" thumbURL="thumbnails/rom_2.jpg" linkURL="" linkTarget="" >
+	<caption>Premium Tea Tasting Party 2009</caption>	
+</image><image imageURL="images/rom_3.jpg" thumbURL="thumbnails/rom_3.jpg" linkURL="" linkTarget="" >
+	<caption>Premium Tea Tasting Party 2009</caption>	
+</image><image imageURL="images/tea_party_1.jpg" thumbURL="thumbnails/tea_party_1.jpg" linkURL="" linkTarget="" >
+	<caption>Premium Tea Tasting Party 2009</caption>	
+</image><image imageURL="images/tea_party_2.jpg" thumbURL="thumbnails/tea_party_2.jpg" linkURL="" linkTarget="" >
+	<caption>Premium Tea Tasting Party 2009</caption>	
+</image><image imageURL="images/tea_party_3.jpg" thumbURL="thumbnails/tea_party_3.jpg" linkURL="" linkTarget="" >
+	<caption>Premium Tea Tasting Party 2009</caption>	
+</image><image imageURL="images/tea_party_4.jpg" thumbURL="thumbnails/tea_party_4.jpg" linkURL="" linkTarget="" >
+	<caption>Premium Tea Tasting Party 2009</caption>	
+</image></simpleviewergallery>

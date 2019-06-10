@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+	useFlickr="FALSE"
+	galleryTitle="Holt Renfrew Chinese New Year Celebration 2018"
+	textColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(255,255,255,0.5)"
+	showOpenButton="TRUE"
+	showExpandButton="TRUE"
+	showThumbsButton="TRUE"
+	useThumbDots="FALSE"
+	useFullscreenExpand="FALSE"
+>
+	<image imageURL="images/2.jpg" thumbURL="thumbnails/2.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[Tea Tasting at Holt Renfrew for Chinese New Year Celebration, February 17th and 18th]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/3.jpg" thumbURL="thumbnails/3.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[Tea Tasting at Holt Renfrew for Chinese New Year Celebration, February 17th and 18th]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/1.jpg" thumbURL="thumbnails/1.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[Tea Tasting at Holt Renfrew for Chinese New Year Celebration, February 17th and 18th]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/4.jpg" thumbURL="thumbnails/4.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[Tea Tasting at Holt Renfrew for Chinese New Year Celebration, February 17th and 18th]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/5.jpg" thumbURL="thumbnails/5.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[Tea Tasting at Holt Renfrew for Chinese New Year Celebration, February 17th and 18th]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+</juiceboxgallery>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<simpleviewergallery
+	
+	title="Heritage Day 2013"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""	
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""	
+>
+
+<image imageURL="images/dscn0194.jpg" thumbURL="thumbnails/dscn0194.jpg" linkURL="" linkTarget="" >
+	<caption>Heritage Day</caption>	
+</image><image imageURL="images/dscn0204.jpg" thumbURL="thumbnails/dscn0204.jpg" linkURL="" linkTarget="" >
+	<caption>Heritage Day</caption>	
+</image><image imageURL="images/dscn0205.jpg" thumbURL="thumbnails/dscn0205.jpg" linkURL="" linkTarget="" >
+	<caption>Heritage Day</caption>	
+</image><image imageURL="images/dscn0210.jpg" thumbURL="thumbnails/dscn0210.jpg" linkURL="" linkTarget="" >
+	<caption>Heritage Day</caption>	
+</image><image imageURL="images/dscn0228.jpg" thumbURL="thumbnails/dscn0228.jpg" linkURL="" linkTarget="" >
+	<caption>Heritage Day</caption>	
+</image></simpleviewergallery>

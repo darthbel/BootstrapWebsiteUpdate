@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<simpleviewergallery
+	
+	title="Vin Cambridge 2007"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""	
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""	
+>
+
+<image imageURL="images/4460196465_04e09c4373_o.jpg" thumbURL="thumbnails/4460196465_04e09c4373_o.jpg" linkURL="" linkTarget="" >
+	<caption>Vin Cambridge 2007</caption>	
+</image><image imageURL="images/4460196267_078f44c1b6_o.jpg" thumbURL="thumbnails/4460196267_078f44c1b6_o.jpg" linkURL="" linkTarget="" >
+	<caption>Vin Cambridge 2007</caption>	
+</image></simpleviewergallery>

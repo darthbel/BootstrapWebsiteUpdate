@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+	useFlickr="FALSE"
+	galleryTitle="At Holt Renfrew: February 2015"
+	textColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(255,255,255,0.5)"
+	showOpenButton="TRUE"
+	showExpandButton="TRUE"
+	showThumbsButton="TRUE"
+	useThumbDots="FALSE"
+	useFullscreenExpand="FALSE"
+>
+	<image imageURL="images/1.jpg" thumbURL="thumbnails/1.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[1.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/2.jpg" thumbURL="thumbnails/2.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[2.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/3.jpg" thumbURL="thumbnails/3.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[3.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/4.jpg" thumbURL="thumbnails/4.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[4.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/5.jpg" thumbURL="thumbnails/5.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[5.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/thumb.jpg" thumbURL="thumbnails/thumb.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[thumb.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/thumb3.jpg" thumbURL="thumbnails/thumb3.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[thumb3.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/thumb5.jpg" thumbURL="thumbnails/thumb5.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[thumb5.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/thumb1.jpg" thumbURL="thumbnails/thumb1.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[thumb1.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/thumb2.jpg" thumbURL="thumbnails/thumb2.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[thumb2.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/thumb4.jpg" thumbURL="thumbnails/thumb4.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[thumb4.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+</juiceboxgallery>

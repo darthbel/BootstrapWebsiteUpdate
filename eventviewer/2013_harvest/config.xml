@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+	useFlickr="FALSE"
+	galleryTitle="Harvest Moon Festival (Holt Renfrew): September 2013"
+	textColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(255,255,255,0.5)"
+	showOpenButton="TRUE"
+	showExpandButton="TRUE"
+	showThumbsButton="TRUE"
+	useThumbDots="FALSE"
+	useFullscreenExpand="FALSE"
+>
+	<image imageURL="images/dscn2997.jpg" thumbURL="thumbnails/dscn2997.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn2997.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn3009.jpg" thumbURL="thumbnails/dscn3009.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn3009.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn3010.jpg" thumbURL="thumbnails/dscn3010.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn3010.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn3012.jpg" thumbURL="thumbnails/dscn3012.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn3012.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn3013.jpg" thumbURL="thumbnails/dscn3013.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn3013.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/39148_39912.jpg" thumbURL="thumbnails/39148_39912.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[39148_39912.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/39148_40030.jpg" thumbURL="thumbnails/39148_40030.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[39148_40030.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/thumb.jpg" thumbURL="thumbnails/thumb.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[thumb.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+</juiceboxgallery>

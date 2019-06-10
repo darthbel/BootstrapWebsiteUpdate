@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<simpleviewergallery
+	
+	title="2009 ACCE-Campbell Award"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""	
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""	
+>
+
+<image imageURL="images/campbell_3.jpg" thumbURL="thumbnails/campbell_3.jpg" linkURL="" linkTarget="" >
+	<caption>ACCE-Campbell's Award 2009</caption>	
+</image><image imageURL="images/campbell_4.jpg" thumbURL="thumbnails/campbell_4.jpg" linkURL="" linkTarget="" >
+	<caption>ACCE-Campbell's Award 2009</caption>	
+</image><image imageURL="images/campbell_1.jpg" thumbURL="thumbnails/campbell_1.jpg" linkURL="" linkTarget="" >
+	<caption>ACCE-Campbell's Award 2009</caption>	
+</image><image imageURL="images/campbell_6.jpg" thumbURL="thumbnails/campbell_6.jpg" linkURL="" linkTarget="" >
+	<caption>ACCE-Campbell's Award 2009</caption>	
+</image><image imageURL="images/campbell_5.jpg" thumbURL="thumbnails/campbell_5.jpg" linkURL="" linkTarget="" >
+	<caption>ACCE-Campbell's Award 2009</caption>	
+</image><image imageURL="images/campbell_2.jpg" thumbURL="thumbnails/campbell_2.jpg" linkURL="" linkTarget="" >
+	<caption>ACCE-Campbell's Award 2009</caption>	
+</image></simpleviewergallery>

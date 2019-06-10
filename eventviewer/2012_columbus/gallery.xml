@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<simpleviewergallery
+	
+	title="Columbus Centre 2012"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""	
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""	
+>
+
+<image imageURL="images/a.jpg" thumbURL="thumbnails/a.jpg" linkURL="" linkTarget="" >
+	<caption>Emily with Kenneth D. Taylor, former Canadian ambassador to Iran.</caption>	
+</image><image imageURL="images/b.jpg" thumbURL="thumbnails/b.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Tasting</caption>	
+</image><image imageURL="images/c.jpg" thumbURL="thumbnails/c.jpg" linkURL="" linkTarget="" >
+	<caption>Chinese Tea Culture Display</caption>	
+</image></simpleviewergallery>

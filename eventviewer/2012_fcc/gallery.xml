@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<simpleviewergallery
+	
+	title="Tea Seminar at the Chinese Cultural Centre"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""	
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""	
+>
+
+<image imageURL="images/ccc_setup.jpg" thumbURL="thumbnails/ccc_setup.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Display for Families with Children from China</caption>	
+</image><image imageURL="images/ccc_demostration2.jpg" thumbURL="thumbnails/ccc_demostration2.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Seminar (FCC) at Chinese Cultural Centre of Greater Toronto</caption>	
+</image><image imageURL="images/ccc_tea_tasting.jpg" thumbURL="thumbnails/ccc_tea_tasting.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Tasting!</caption>	
+</image><image imageURL="images/ccc_demostration1.jpg" thumbURL="thumbnails/ccc_demostration1.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Seminar (FCC) at Chinese Cultural Centre of Greater Toronto</caption>	
+</image><image imageURL="images/ccc.jpg" thumbURL="thumbnails/ccc.jpg" linkURL="" linkTarget="" >
+	<caption>Annual Culture Camp at Chinese Cultural Centre of Greater Toronto</caption>	
+</image></simpleviewergallery>

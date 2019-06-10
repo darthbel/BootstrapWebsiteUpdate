@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+	useFlickr="FALSE"
+	galleryTitle="Chinese Heritage Weekend: April 2014"
+	textColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(255,255,255,0.5)"
+	showOpenButton="TRUE"
+	showExpandButton="TRUE"
+	showThumbsButton="TRUE"
+	useThumbDots="FALSE"
+	useFullscreenExpand="FALSE"
+>
+	<image imageURL="images/dscn6986.jpg" thumbURL="thumbnails/dscn6986.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn6986.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn6987.jpg" thumbURL="thumbnails/dscn6987.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn6987.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn7002.jpg" thumbURL="thumbnails/dscn7002.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn7002.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/thumb.jpg" thumbURL="thumbnails/thumb.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[thumb.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn7004.jpg" thumbURL="thumbnails/dscn7004.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn7004.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn7021.jpg" thumbURL="thumbnails/dscn7021.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn7021.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+</juiceboxgallery>

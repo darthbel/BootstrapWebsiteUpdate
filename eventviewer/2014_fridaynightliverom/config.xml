@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+	useFlickr="FALSE"
+	galleryTitle="Friday Night Live at The ROM: May 2014"
+	textColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(255,255,255,0.5)"
+	showOpenButton="TRUE"
+	showExpandButton="TRUE"
+	showThumbsButton="TRUE"
+	useThumbDots="FALSE"
+	useFullscreenExpand="FALSE"
+>
+	<image imageURL="images/dscn7461.jpg" thumbURL="thumbnails/dscn7461.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn7461.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/thumb.jpg" thumbURL="thumbnails/thumb.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[thumb.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn7487.jpg" thumbURL="thumbnails/dscn7487.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn7487.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn7512.jpg" thumbURL="thumbnails/dscn7512.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn7512.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn7541.jpg" thumbURL="thumbnails/dscn7541.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn7541.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn7653.jpg" thumbURL="thumbnails/dscn7653.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn7653.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/dscn7656.jpg" thumbURL="thumbnails/dscn7656.jpg" linkURL="" linkTarget="" >
+		<title><![CDATA[dscn7656.jpg]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+</juiceboxgallery>

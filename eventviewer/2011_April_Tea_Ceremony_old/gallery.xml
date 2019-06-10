@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<simpleviewergallery
+	
+	title="Tea Ceremony 2011"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""	
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""	
+>
+
+<image imageURL="images/img_0264.jpg" thumbURL="thumbnails/img_0264.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Master Connie Fong explains the setup to the Residents at the Mon Sheong Foundation</caption>	
+</image><image imageURL="images/img_0304.jpg" thumbURL="thumbnails/img_0304.jpg" linkURL="" linkTarget="" >
+	<caption>Prime Minister Stephen Harper and his wife Linda join the Demonstration</caption>	
+</image><image imageURL="images/img_0305.jpg" thumbURL="thumbnails/img_0305.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Master Connie Fong shows the Tea Set to the Prime Minister</caption>	
+</image><image imageURL="images/img_0314.jpg" thumbURL="thumbnails/img_0314.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Master Connie Fong begins her presentation</caption>	
+</image><image imageURL="images/img_0336.jpg" thumbURL="thumbnails/img_0336.jpg" linkURL="" linkTarget="" >
+	<caption>The Prime Minister and his Wife enjoy cups of Monkey Picked  Ti Quan Yin</caption>	
+</image><image imageURL="images/img_0338.jpg" thumbURL="thumbnails/img_0338.jpg" linkURL="" linkTarget="" >
+	<caption>The first round of Tea Tasting!</caption>	
+</image><image imageURL="images/img_0339.jpg" thumbURL="thumbnails/img_0339.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Master Connie Fong talks about the History of Tea</caption>	
+</image><image imageURL="images/img_0345.jpg" thumbURL="thumbnails/img_0345.jpg" linkURL="" linkTarget="" >
+	<caption>img_0345.jpg</caption>	
+</image><image imageURL="images/img_3195.jpg" thumbURL="thumbnails/img_3195.jpg" linkURL="" linkTarget="" >
+	<caption>img_3195.jpg</caption>	
+</image><image imageURL="images/img_3213.jpg" thumbURL="thumbnails/img_3213.jpg" linkURL="" linkTarget="" >
+	<caption>A crowd begins to gather at the Tea Ceremony</caption>	
+</image><image imageURL="images/img_3214.jpg" thumbURL="thumbnails/img_3214.jpg" linkURL="" linkTarget="" >
+	<caption>img_3214.jpg</caption>	
+</image><image imageURL="images/img_3218.jpg" thumbURL="thumbnails/img_3218.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Master Connie Fong presents a Yixing Tea Pot</caption>	
+</image><image imageURL="images/img_3223.jpg" thumbURL="thumbnails/img_3223.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Master Connie Fong expertly prepares Monkey Picked Ti Quan Yin</caption>	
+</image><image imageURL="images/img_3224.jpg" thumbURL="thumbnails/img_3224.jpg" linkURL="" linkTarget="" >
+	<caption>img_3224.jpg</caption>	
+</image><image imageURL="images/img_3263.jpg" thumbURL="thumbnails/img_3263.jpg" linkURL="" linkTarget="" >
+	<caption>img_3263.jpg</caption>	
+</image><image imageURL="images/title_picture.jpg" thumbURL="thumbnails/title_picture.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Master Connie Fong explains the setup to the Residents at the Mon Sheong Foundation</caption>	
+</image></simpleviewergallery>

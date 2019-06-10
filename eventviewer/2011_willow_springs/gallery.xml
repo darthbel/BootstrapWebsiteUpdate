@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<simpleviewergallery
+	
+	title="Willow Springs 2011"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""	
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""	
+>
+
+<image imageURL="images/6.jpg" thumbURL="thumbnails/6.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Master Connie Fong and Emily Kung-Quance at the Willow Springs Grand Opening (April 16, 2011)</caption>	
+</image><image imageURL="images/50.jpg" thumbURL="thumbnails/50.jpg" linkURL="" linkTarget="" >
+	<caption>Tea Master Connie Fong and Emily Kung-Quance at the Willow Springs Grand Opening (April 16, 2011)</caption>	
+</image></simpleviewergallery>

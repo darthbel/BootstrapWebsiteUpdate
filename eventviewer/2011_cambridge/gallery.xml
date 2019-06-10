@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<simpleviewergallery
+	
+	title="Cambridge Food and Wine"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="4"
+	thumbColumns="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""	
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""	
+>
+
+<image imageURL="images/cambridge1.jpg" thumbURL="thumbnails/cambridge1.jpg" linkURL="" linkTarget="" >
+	<caption>The Honourable Senator Pamela Wallin, Recipient of the Cambridge Lifetime Achievement Award</caption>	
+</image><image imageURL="images/cambridge4.jpg" thumbURL="thumbnails/cambridge4.jpg" linkURL="" linkTarget="" >
+	<caption>Chinese Tea Culture Canada Inc. is one of the Proud Sponsors of the Cambridge Food&Wine Society Event</caption>	
+</image><image imageURL="images/cambridge3.jpg" thumbURL="thumbnails/cambridge3.jpg" linkURL="" linkTarget="" >
+	<caption>cambridge3.jpg</caption>	
+</image><image imageURL="images/cambridge2.jpg" thumbURL="thumbnails/cambridge2.jpg" linkURL="" linkTarget="" >
+	<caption>cambridge2.jpg</caption>	
+</image></simpleviewergallery>
